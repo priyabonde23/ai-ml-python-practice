@@ -2,8 +2,8 @@
 This repository contains my Python practice programs and mini projects.
 
 ## Projects
-- Hello World Python Program
-- Calculator Mini Project
+- Hello World Python Program (hello.py)
+- Calculator Mini Project (calculator.py)
 
 ## Technologies Used
 - Python
